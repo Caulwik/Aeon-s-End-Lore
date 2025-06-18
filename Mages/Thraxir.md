@@ -1,6 +1,6 @@
 #mage 
 __[[Core set]] mat lore:__
-+ [[Mist]]: "_His death was like all the others: swift and cruel._" ― Mist
++ [Mist](Wave_1/Mist.md): "_His death was like all the others: swift and cruel._" ― Mist
 + Mist: "_I am not brave. Not like Thraxir, not like [[Brama]]_" ― Mist
 + 
 __Wave 1 lore:__
