@@ -1,0 +1,2 @@
+#location 
+The cave mouth is mentioned in [[Z'hana]]'s lore. It is the place where [[Gravehold]] is closed from [[The World That Was]] by rubles. [[Z'hana]] often visits this location to remove some stones and clear a path, risking to be sent in the [[Crypts]] if she is seen.

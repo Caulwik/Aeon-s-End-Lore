@@ -1,0 +1,2 @@
+__Wave 1 cards lore:__
++ Shard Spitter ([[Blight Lord]] minion): "_Renny Mumbast lost both eyes to these wretched things. So now, when the warning bells sound the Blight Lord's call, we wear goggles._" ― [[Mist]], Breach Mage Dagger Captain
